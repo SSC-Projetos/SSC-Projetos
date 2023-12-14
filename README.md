@@ -20,7 +20,7 @@
 
 ##
 
-### ✉️ Contate-nos via e-mail: ssc.projetos@minervafoods.com
+### 📧 Contate-nos via e-mail: ssc.projetos@minervafoods.com
 
 ## 
 
@@ -30,4 +30,4 @@
 <img align="center"src="https://i.picasion.com/pic92/59ad449c77de8cf3eacf678e18b743bf.gif" width="300" height="266" border="100" src="https://i.picasion.com/pic92/59ad449c77de8cf3eacf678e18b743bf.gif">
 </div>
 
-
+##
