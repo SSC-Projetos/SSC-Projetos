@@ -24,7 +24,10 @@
 
 ## 
 
+
 ### Nosso time:
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/59ad449c77de8cf3eacf678e18b743bf.gif" width="300" height="266" border="100" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<div style="display: inline_block"><br>
+<img align="center"src="https://i.picasion.com/pic92/59ad449c77de8cf3eacf678e18b743bf.gif" width="300" height="266" border="100" src="https://i.picasion.com/pic92/59ad449c77de8cf3eacf678e18b743bf.gif">
+</div>
 
 
