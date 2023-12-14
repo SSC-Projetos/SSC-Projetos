@@ -1,4 +1,37 @@
-### Olá! Somos o time de SSC Projetos da Minerva Foods!!! 🥩
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olá! Somos o time de SSC Projetos da Minerva Foods!!! 🥩</title>
+    <style>
+        body {
+            background-color: #2B3D4A;
+            color: #E3DFAF;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            color: #E74751;
+        }
+
+        p {
+            font-size: 18px;
+            color: #E3DFAF;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá! Somos o time de SSC Projetos da Minerva Foods!!! 🥩</h1>
+</body>
+</html>
+
+
+
 
 ### Tecnologias que trabalhamos: 
 <div style="display: inline_block"><br>
