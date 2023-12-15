@@ -27,7 +27,7 @@
 
 ### Nosso time:
 <div style="display: inline_block"><br>
-<img align="center"src="https://i.picasion.com/pic92/59966f6ba2bd330c3daf5f322cd933cc.gif" width="300" height="266" border="100" src="https://i.picasion.com/pic92/59966f6ba2bd330c3daf5f322cd933cc.gif">
+<img align="center"src="https://i.picasion.com/pic92/6fc71eba99c95848cc171f5186d9a2bd.gif" width="300" height="266" border="100" src="https://i.picasion.com/pic92/6fc71eba99c95848cc171f5186d9a2bd.gif">
 </div>
 
 ##
